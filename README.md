@@ -1,3 +1,9 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+           <h1>Abstract</h1> 
+<h4>
 The rise of Internet-of-Things enables the develop
 ment of smart applications devoted to improving the quality of
  life in urban and rural areas, thus fostering the creation of smart
@@ -21,4 +27,7 @@ ciency, or excessive cost of Internet access. To surmount these
  series of communication latency tests, an analysis of the Smart
  Contract usage, and simulations in which buses act as Data
  Mules. Our results suggest the feasibility of our proposal in a
- Smart Territory scenario.
+ Smart Territory scenario.</h4>
+</ul></div>
+</foreignObject>
+</svg>
